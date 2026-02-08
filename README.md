@@ -150,11 +150,6 @@ Fine-tuned NL-to-SQL translation system using LangChain and LLM orchestration.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathamsinha2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsinha2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
-
-<br/>
-
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=prathamsinha2&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=6B7280" />
 
 </div>
