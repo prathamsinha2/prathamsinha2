@@ -1,182 +1,237 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Pratham+Sinha;Full-Stack+%26+GenAI+Engineer;Building+Production+Systems+at+Scale" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>SDE I @ Skypoint AI</b> &bull; Full-Stack & GenAI Engineer
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratham%20Sinha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20GenAI%20Engineer%20%7C%20Building%20Production%20Systems%20at%20Scale&descSize=16&descAlignY=52" />
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=55&lines=SDE+I+%40+Skypoint+AI+%E2%80%A2+3x+SPOT+Award+Winner;50%2B+Enterprise+Clients+%E2%80%A2+2M%2B+Records%2FDay" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Social Badges -->
+<a href="mailto:prathamsinha993@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/pratham-sinha-89105a294">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>&nbsp;
+<a href="https://prathamsinha.dev">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED.svg?style=for-the-badge&logo=safari&logoColor=white" />
+</a>&nbsp;
+<a href="https://drive.google.com/file/d/1V9vh4ueIK-MSvhVxidrRqm05jHGsQ04d/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-18181B.svg?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Quick Stats -->
+<img src="https://img.shields.io/badge/95%25-ML_Accuracy-7C3AED?style=flat-square&labelColor=18181B" />&nbsp;
+<img src="https://img.shields.io/badge/2M+-Records%2FDay-06B6D4?style=flat-square&labelColor=18181B" />&nbsp;
+<img src="https://img.shields.io/badge/50+-Enterprise_Clients-10B981?style=flat-square&labelColor=18181B" />&nbsp;
+<img src="https://img.shields.io/badge/3x-SPOT_Award-F59E0B?style=flat-square&labelColor=18181B" />
+
+</div>
+
+<br/>
+
+<!-- About -->
+## `> whoami`
+
+Full-Stack Engineer at **Skypoint AI** specializing in GenAI applications and scalable data pipelines. I build production systems that serve 50+ enterprise clients and process 2M+ records daily.
+
+> Reduced SDLC from **4-6 weeks to 1-2 weeks** &bull; Improved ML model accuracy from **60% to 95%** &bull; Led **20+ engineers** on DBT development
+
+<br/>
+
+<!-- Tech Stack -->
+## `> tech --stack`
+
+<details open>
+<summary><b>Languages & Core</b></summary>
+<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark" />
 </p>
+</details>
 
-<p align="center">
-  <a href="mailto:prathamsinha993@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pratham-sinha-89105a294"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://prathamsinha.dev"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,vite&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WebSockets-18181B?style=for-the-badge&logo=socketdotio&logoColor=white" height="48" />
 </p>
+</details>
 
----
-
-### About Me
-
-Full-Stack Engineer specializing in GenAI applications and scalable data pipelines. I build production systems that serve **50+ enterprise clients** and process **2M+ records daily**. At Skypoint AI, I've reduced SDLC from 4-6 weeks to 1-2 weeks and improved ML model accuracy from 60% to 95%.
-
-- Currently building enterprise B2B SaaS platforms for healthcare
-- 3x SPOT Award recipient for outstanding technical contributions
-- Open to opportunities in Full-Stack, Data Engineering, or GenAI
-
----
-
-### Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=microdotblog&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Cloud & DevOps**
-
-![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Data Engineering**
-
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=deltalake&logoColor=white)
-
-**GenAI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamsinha2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsinha2&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<details open>
+<summary><b>Backend & APIs</b></summary>
+<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 </p>
+</details>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prathamsinha2&theme=tokyonight&hide_border=true" />
+<details open>
+<summary><b>Databases</b></summary>
+<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="48" />
 </p>
+</details>
 
----
+<details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,githubactions&theme=dark" />
+</p>
+</details>
 
-### Featured Projects
+<details open>
+<summary><b>Data Engineering</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white" height="48" />
+</p>
+</details>
+
+<details open>
+<summary><b>GenAI & LLMs</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="48" />
+</p>
+</details>
+
+<br/>
+
+<!-- Projects -->
+## `> ls projects/`
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Enterprise B2B Platforms</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Full--Stack_SaaS-6C63FF?style=for-the-badge" />
-      </p>
-      <p>Multi-tenant SaaS platforms for eSignature and reputation management serving healthcare and senior living clients.</p>
-      <p>
-        <img src="https://img.shields.io/badge/50+-Enterprise_Clients-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/1000+-Active_Users-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/500+-Concurrent_Users-orange?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Multi-Tenant ETL Pipeline</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge" />
-      </p>
-      <p>Cloud-native data pipeline on AKS processing healthcare CMS data with standardized ETL flow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/2M+-Records/Day-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/75%-SDLC_Reduction-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/<1s-Query_Time-orange?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-        <img src="https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=deltalake&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Databricks SQL Agent</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GenAI_Application-8E75B2?style=for-the-badge" />
-      </p>
-      <p>Fine-tuned natural language to SQL translation system using LangChain and LLM orchestration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/95%-Accuracy-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/12s-Latency-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/500+-Daily_Queries-orange?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Key Achievements</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Highlights-FFD700?style=for-the-badge" />
-      </p>
-      <ul>
-        <li><b>3x SPOT Award</b> at Skypoint AI for AI agent architecture, data pipelines & GenAI engineering</li>
-        <li><b>Winner - Social Hackathon 2023</b> — 1st place among 104 teams</li>
-        <li><b>Led 20+ interns</b> on DBT development, writing 30,000+ lines of code</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Enterprise B2B Platforms
+<sup><code>Full-Stack SaaS</code></sup>
+
+Multi-tenant platforms for eSignature & reputation management serving healthcare and senior living clients.
+
+<sub>
+
+| Metric | Value |
+|--------|-------|
+| Enterprise Clients | **50+** |
+| Active Users | **1,000+** |
+| Concurrent Users | **500+** |
+| Reviews Processed | **1,000+/day** |
+
+</sub>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,postgres,gcp,redis&theme=dark&perline=6" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Multi-Tenant ETL Pipeline
+<sup><code>Data Engineering</code></sup>
+
+Cloud-native pipeline on AKS processing healthcare CMS data with standardized ETL flow.
+
+<sub>
+
+| Metric | Value |
+|--------|-------|
+| Daily Records | **2M+** |
+| SDLC Reduction | **75%** |
+| Query Time | **< 1s** |
+| Healthcare Clients | **20+** |
+
+</sub>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,azure,docker,kubernetes&theme=dark&perline=6" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Databricks SQL Agent
+<sup><code>GenAI Application</code></sup>
+
+Fine-tuned NL-to-SQL translation system using LangChain and LLM orchestration.
+
+<sub>
+
+| Metric | Value |
+|--------|-------|
+| Accuracy | **60% -> 95%** |
+| Latency | **30s -> 12s** |
+| Daily Queries | **500+** |
+| Deployment | **Kubernetes** |
+
+</sub>
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes&theme=dark&perline=6" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Achievements
+<sup><code>Highlights</code></sup>
+
+<br/>
+
+**3x SPOT Award** &mdash; Outstanding contributions to AI agent architecture, data pipelines & GenAI engineering at Skypoint AI
+
+**Hackathon Winner** &mdash; 1st place among 104 teams at Social Hackathon 2023
+
+**Team Lead** &mdash; Led 20+ interns on DBT development, 30,000+ lines of code with 100% accuracy
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathamsinha2&color=6C63FF&style=flat-square&label=Profile+Views" />
-</p>
+<!-- GitHub Stats -->
+## `> git stats`
 
-<p align="center">
-  <i>"Turning complex problems into elegant, scalable solutions."</i>
-</p>
+<div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathamsinha2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsinha2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=prathamsinha2&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=6B7280" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamsinha2&theme=github-compact&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&area_color=7C3AED" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<div align="center">
+<sub>
+<img src="https://komarev.com/ghpvc/?username=prathamsinha2&color=7C3AED&style=flat-square&label=Profile+Views" />
+</sub>
+</div>
