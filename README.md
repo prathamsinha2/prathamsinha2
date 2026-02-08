@@ -10,7 +10,7 @@ Building production systems that serve **50+ enterprise clients** and process **
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prathamsinha993@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/pratham-sinha-89105a294)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED.svg?style=for-the-badge&logo=safari&logoColor=white)](https://prathamsinha.dev)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED.svg?style=for-the-badge&logo=safari&logoColor=white)](https://prathamsinha-portfolio.vercel.app/)&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-18181B.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1V9vh4ueIK-MSvhVxidrRqm05jHGsQ04d/view?usp=drive_link)
 
 </div>
